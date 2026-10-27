@@ -1,0 +1,1 @@
+fixing the error by changing the variable total from i34 to f64
